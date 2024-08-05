@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+}
+
+#heading {
+    background-color: aqua;
+    border-radius: 18px;
+}
+
+#css {
+    background-color: black;
+    color:gold;
+    border: 2px solid red;
+    border-radius: 8px;
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+
+.box {
+    background-color: black;
+    padding: 50px;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius:70px ;
+}
+
+p {
+    font-size: 28px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
